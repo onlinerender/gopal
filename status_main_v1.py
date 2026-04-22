@@ -114,7 +114,7 @@ TIMEOUT = 3.0  # seconds
 
 
 # ========= TEMP SAFETY =========
-TEMP_LIMIT = 79               # °C
+TEMP_LIMIT = 80               # °C
 TEMP_CHECK_INTERVAL = 30     # 5 minutes (300 seconds)
 _last_temp_check = 0
 
